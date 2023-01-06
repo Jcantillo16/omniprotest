@@ -66,10 +66,4 @@ http://127.0.0.1:8000/api/countries/ - GET, POST.
 http://127.0.0.1:8000/api/countries/{id}/ - GET, PUT, DELETE.
 
 
-[//]: # (subtitulo)
 
-
-
-
-# omniprotest
-# omniprotest
