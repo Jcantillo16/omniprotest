@@ -66,4 +66,12 @@ http://127.0.0.1:8000/api/countries/ - GET, POST.
 http://127.0.0.1:8000/api/countries/{id}/ - GET, PUT, DELETE.
 
 
+## Documentacion API
+
+https://documenter.getpostman.com/view/18241310/2s8Z73yr6L
+
+
+
+
+
 
